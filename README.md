@@ -58,7 +58,7 @@ To enable OSV-Free, the following two steps should be done:
   
 ## Implemenation
 
-The customized webview apk file (OSV-Free) is done by instrumenting the chromium source code (based on the commit '19d2c5cb7b75b0c04153fbeff487ab8e8fcfa208' at June 2017). To manually compile files, please follow the instructions (https://www.chromium.org/developers/how-tos/build-instructions-android-webview). \[The chromium project is too large. We only uploaded  necessary source code. We are sorry for inconvenience.\]
+The customized webview apk file (OSV-Free) is done by instrumenting the chromium source code (based on the commit '19d2c5cb7b75b0c04153fbeff487ab8e8fcfa208' at June 2017). To manually compile files, please follow the instructions (https://www.chromium.org/developers/how-tos/build-instructions-android-webview). \[The chromium project is too large. We only uploaded  necessary folders: android_webview and content. We are sorry for inconvenience.\]
 
 For convenience, the intrumented source code files are shown as follows:
 
