@@ -2,7 +2,7 @@
 
 ## Research Paper
 
-We present the details of our work in the following research paper:
+We present our work in the following research paper:
 
 **Study and Mitigation of Origin Stripping Vulnerabilities in Hybrid-postMessage Enabled Mobile Applications**  
 Guangliang Yang, Jeff Huang, Guofei Gu, Abner Mendoza.   
