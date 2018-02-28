@@ -95,6 +95,7 @@ All API performance is shown as follows (Table IV)
 ## Contacts
 
 OSV-Free is initially developed by Guangliang Yang at the SUCCESS lab of Texas A&M University, supervised by Prof. Guofei Gu.     
-For any questions, please feel free to contact    
-  Guangliang Yang (YGL at TAMU dot EDU).
+
+For any questions, please feel free to contact the author:  
+  - Guangliang Yang (YGL at TAMU dot EDU).
 
