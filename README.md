@@ -10,7 +10,7 @@ Guangliang Yang, Jeff Huang, Guofei Gu, Abner Mendoza.
 
 
 
-If you use *Hybrid-postMessage* or *OSV-Free* in a scientific publication, we would appreciate citations using this following Bibtex entry:
+If you use *Hybrid postMessage* or *OSV-Free* in a scientific publication, we would appreciate citations using this following Bibtex entry:
 
 ``` tex
 @inproceedings{OSV_SP18,
